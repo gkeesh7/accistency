@@ -15,7 +15,7 @@ Use Cases for the Project
 
 - Accepting a challenge
   - evaluate the event by going through the links and details.
-  - accept the challenge by agreeing to the challegne and make a payment of the challenge-value amount.
+  - accept the challenge by agreeing to the challenge and make a payment of the challenge-value amount.
   - Sign up for the event via the respective channels.
 
 
